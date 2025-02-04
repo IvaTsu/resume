@@ -17,8 +17,8 @@ To test locally, run the following in your terminal:
 
 To test locally with docker, run the following in your terminal after installing docker into your system:
 
-1. `docker image build -t resume-template .`
-2. `docker run --rm --name resume-template -v "$PWD":/home/app --network host resume-template`
+1. `docker image build -t resume .`
+2. `docker run --rm --name resume -v "$PWD":/home/app -p 4000:4000 resume jekyll serve --host 0.0.0.0`
 
 #### Options/configuration
 
