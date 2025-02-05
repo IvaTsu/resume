@@ -44,4 +44,4 @@ The code and styles are licensed under the MIT license. [See project license.](L
 
 Disclaimer: Use of Lisa M. Simpson image and name used under [Fair Use](https://en.wikipedia.org/wiki/Fair_use) for educational purposes. Project license does not apply to use of this material.
 
-The template is taken from: [here](https://github.com/jglovier/resume-template)
+The template is taken from [here](https://github.com/jglovier/resume-template)
