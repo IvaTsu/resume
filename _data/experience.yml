@@ -1,9 +1,9 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Frontend Operations Engineer
+- company: smart Europe GmbH
+  position: Frontend Operations Engineer
+  duration: Sep, 2024 &mdash; Dec, 2024
+  summary: Focusing on maintaining a stable production environment and continuous operational improvements in e-commerce micro-frontend platform. <ul class="resume-item-list"><li>Integration of DataDog</li><li>Migration to SST from aws-simple</li><li>Implementation of the testing framework for DataDog with TypeScript</li></ul>
 
 # Director of Digital Stratgy
 - company: United Nations Human Rights Council
