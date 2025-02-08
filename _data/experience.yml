@@ -5,11 +5,11 @@
   duration: Sep, 2024 &mdash; Dec, 2024
   summary: Focusing on maintaining a stable production environment and continuous operational improvements in e-commerce micro-frontend platform. <ul class="resume-item-list"><li>Integration of DataDog</li><li>Migration to SST from aws-simple</li><li>Implementation of the testing framework for DataDog with TypeScript</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Frontend Engineer
+- company: smart Europe GmbH
+  position: Frontend Engineer
+  duration:  May, 2023 &mdash; Aug, 2024
+  summary: Supporting market launches, improving legacy systems, and enhancing development workflows to optimize deployment efficiency and maintainability. <ul class="resume-item-list"><li>Assisted in launching markets across Spain, Italy, the UK, Austria, Belgium, Portugal, Netherlands, and others.</li><li>Participated in migration of shared dependencies to a monorepo using NX and Lerna, improving collaboration and deployment efficiency.</li><li>Overhauled the shopping cart and payment structure, optimizing market-specific configurations and decoupling business logic from the view layer.</li></ul>
 
 
 # Communications Coordinator
