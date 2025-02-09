@@ -8,12 +8,12 @@
 # Frontend Engineer
 - company: smart Europe GmbH
   position: Frontend Engineer
-  duration:  May, 2023 &mdash; Aug, 2024
+  duration: May, 2023 &mdash; Aug, 2024
   summary: Supporting market launches, improving legacy systems, and enhancing development workflows to optimize deployment efficiency and maintainability. <ul class="resume-item-list"><li>Assisted in launching markets across Spain, Italy, the UK, Austria, Belgium, Portugal, Netherlands, and others.</li><li>Participated in migration of shared dependencies to a monorepo using NX and Lerna, improving collaboration and deployment efficiency.</li><li>Overhauled the shopping cart and payment structure, optimizing market-specific configurations and decoupling business logic from the view layer.</li></ul>
 
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# React Native Developer
+- company: VOYD AB
+  position: React Native Developer
+  duration: Sep, 2022  &mdash; Jan, 2023
+  summary: Contributed to the rapid development and successful launch of a video streaming app on iOS and Android. <ul class="resume-item-list"><li>Implemented push and in-app notifications using Airship to enhance user engagement.</li><li>Helped with development of video streaming player in the app.</li><li>Optimized CI/CD by configuring Fastlane and helped in migrating the monorepo from Yarn to pnpm, improving build times.</li></ul>
